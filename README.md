@@ -1,6 +1,6 @@
 # Hello, welcome!
 
-My GitHub my github is a mess but it's my lovely mess, I have some projects that are semi-permamently-inactive.
+My GitHub is a mess but it's my lovely mess, I have some projects that are semi-permamently-inactive.
 
 My interest in programming began in 2013 and I have been learning to code since then, from starting with minecraft-modding to Java then moving to C# console applications and discovering Unity game engine, making some bad 3D games to then getting more interested with the lower-level languages like C Plus Plus and C, I'd say I've collected quite a bit of interest and knowledge that I well most of the time fail to apply to my projects.
 
