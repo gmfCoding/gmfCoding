@@ -14,6 +14,7 @@ Also I am working on a few side projects:
 - [minecraft clone](https://github.com/gmfCoding/minecraft-clone)
 - [game-engine](https://github.com/gmfCoding/openengine)
 - [nand-game assembler](https://github.com/gmfCoding/Nandgame-Assembler)
+- [FConsole](https://github.com/gmfCoding/FConsole)
 - Collaborating on unnamed 2D roguelike video game
 - Personal portfolio website to host my art/projects/blog (static rendering)
 
