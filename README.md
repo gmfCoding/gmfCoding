@@ -18,4 +18,4 @@ Also I am working on a few side projects:
 - Collaborating on unnamed 2D roguelike video game
 - Personal portfolio website to host my art/projects/blog (static rendering)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,blender,unity,eclipse,vim,vscode,git,github,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,blender,unity,eclipse,vim,vscode,git,github)](https://skillicons.dev)
