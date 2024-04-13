@@ -9,13 +9,13 @@ Other passions of mine are 3D Digital Art and CGI, VFX, Video editing, Electroni
 Albeit some of these passions have been neglected nevertheless they still exist.
 
 I am currently enrolled at: 42 Adelaide
+Current Project: [cub3D](https://github.com/gmfCoding/cubed)
 
-Also I am working on a few side projects:
-- [minecraft clone](https://github.com/gmfCoding/minecraft-clone)
-- [game-engine](https://github.com/gmfCoding/openengine)
+Previous mentionable projects:
 - [nand-game assembler](https://github.com/gmfCoding/Nandgame-Assembler)
 - [FConsole](https://github.com/gmfCoding/FConsole)
-- Collaborating on unnamed 2D roguelike video game
-- Personal portfolio website to host my art/projects/blog (static rendering)
+- [game-engine](https://github.com/gmfCoding/openengine)
+- [minecraft clone](https://github.com/gmfCoding/minecraft-clone)
+- Various games and apps
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,blender,unity,eclipse,vim,vscode,git,github)](https://skillicons.dev)
