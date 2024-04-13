@@ -9,6 +9,7 @@ Other passions of mine are 3D Digital Art and CGI, VFX, Video editing, Electroni
 Albeit some of these passions have been neglected nevertheless they still exist.
 
 I am currently enrolled at: 42 Adelaide
+
 Current Project: [cub3D](https://github.com/gmfCoding/cubed)
 
 Previous mentionable projects:
