@@ -10,9 +10,10 @@ Albeit some of these passions have been neglected nevertheless they still exist.
 
 I am currently enrolled at: 42 Adelaide
 
-Current Project: [cub3D](https://github.com/gmfCoding/cubed)
+Current Project: Learning Docker, WebAssembly and WebGL
 
 Previous mentionable projects:
+- [cub3D](https://github.com/gmfCoding/cubed)
 - [nand-game assembler](https://github.com/gmfCoding/Nandgame-Assembler)
 - [FConsole](https://github.com/gmfCoding/FConsole)
 - [game-engine](https://github.com/gmfCoding/openengine)
